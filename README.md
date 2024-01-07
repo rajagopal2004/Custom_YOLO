@@ -13,6 +13,7 @@ git clone https://github.com/Pani122/3DFaceReconstruction
 Then train the model using the dataset 20 epochs works fine.
 ```shell script
 cd yolo
+python3 generator.py
 python3 train.py
 ```
 
